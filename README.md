@@ -2,7 +2,7 @@
 I have used React JS and Devias Material Components to build the login page. 
 
 ## Demo
-
+<img src="https://github.com/mayank-budhiraja/react-material-sign-in/blob/master/2-3.png" width=800 height=500>
 
 ## Codesandbox
 
